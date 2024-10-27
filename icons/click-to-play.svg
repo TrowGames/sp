@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="svg864" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 25.18 25.18">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #c6ad89;
+      }
+
+      .cls-2 {
+        fill: url(#linear-gradient-2);
+      }
+
+      .cls-3 {
+        fill: url(#linear-gradient);
+      }
+
+      .cls-4 {
+        fill: #99856b;
+      }
+
+      .cls-5 {
+        fill: #a89478;
+      }
+
+      .cls-6 {
+        fill: #ececec;
+      }
+
+      .cls-6, .cls-7 {
+        isolation: isolate;
+        opacity: .8;
+      }
+
+      .cls-8 {
+        fill: #0a0;
+      }
+
+      .cls-7 {
+        fill: #fff;
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="12.59" y1="23.92" x2="12.59" y2="1.25" gradientTransform="translate(24.81 -.36) rotate(88.35)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#f4d6a6"/>
+      <stop offset="1" stop-color="#f7edd2"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="13" y1="17.48" x2="13" y2="7.7" gradientTransform="matrix(1,0,0,1,0,0)" xlink:href="#linear-gradient"/>
+  </defs>
+  <g id="layer1">
+    <circle id="circle815" class="cls-7" cx="12.59" cy="12.59" r="12.59"/>
+    <circle id="path1435" class="cls-6" cx="12.59" cy="12.59" r="12.59"/>
+    <path id="path2995" class="cls-8" d="M6.59,5.59v14h2v-5s3-1,5,1c2,2,5,1,5,1v-8s-3,1-5-1c-2-2-5-1-5-1v-1h-2Z"/>
+  </g>
+  <g id="play_x5F_button">
+    <g>
+      <circle class="cls-3" cx="12.59" cy="12.59" r="11.34" transform="translate(-.36 24.81) rotate(-88.35)"/>
+      <path class="cls-4" d="M12.59,1.25c6.26,0,11.34,5.07,11.34,11.34s-5.07,11.34-11.34,11.34S1.25,18.85,1.25,12.59,6.33,1.25,12.59,1.25M12.59,0c-3.36,0-6.52,1.31-8.9,3.69C1.31,6.07,0,9.23,0,12.59s1.31,6.52,3.69,8.9c2.38,2.38,5.54,3.69,8.9,3.69s6.52-1.31,8.9-3.69c2.38-2.38,3.69-5.54,3.69-8.9s-1.31-6.52-3.69-8.9C19.11,1.31,15.95,0,12.59,0h0Z"/>
+      <circle class="cls-1" cx="12.59" cy="12.59" r="9.33"/>
+      <path class="cls-5" d="M12.59,4.09c4.69,0,8.5,3.81,8.5,8.5s-3.81,8.5-8.5,8.5-8.5-3.81-8.5-8.5S7.9,4.09,12.59,4.09M12.59,3.26C7.43,3.26,3.26,7.43,3.26,12.59s4.18,9.33,9.33,9.33,9.33-4.18,9.33-9.33S17.74,3.26,12.59,3.26h0Z"/>
+    </g>
+    <path class="cls-2" d="M16.52,10.89l-5.07-2.93c-1.31-.75-2.94.19-2.94,1.7v5.85c0,1.51,1.63,2.45,2.94,1.7l5.07-2.93c1.31-.75,1.31-2.64,0-3.4Z"/>
+  </g>
+</svg>
